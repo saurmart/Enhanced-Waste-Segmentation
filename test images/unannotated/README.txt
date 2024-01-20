@@ -10,3 +10,5 @@ Take a photo
 Repeat the last two steps three more times
 
 This procedure was repeated 5 times for each voltage.
+
+The Test_full includes all 100 test images
