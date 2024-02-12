@@ -1,1 +1,1 @@
-# waste_segmentation
+# Enhanced_Waste_Segmentation
