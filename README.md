@@ -1,7 +1,7 @@
 # Masters Thesis: Enhanced Waste Segmentation Using an Electric Actuator System
 
 <p align="center">
-  <img src="https://github.com/sauermart/Enhanced-Waste-Segmentation/assets/67053833/ce8e81b8-996e-48bb-b937-f3954d952164" width="500" height="500"/> <img src="https://github.com/sauermart/Enhanced-Waste-Segmentation/assets/67053833/ce8e81b8-996e-48bb-b937-f3954d952164" width="500" height="500"/>
+  <img src="https://github.com/sauermart/Enhanced-Waste-Segmentation/assets/67053833/ce8e81b8-996e-48bb-b937-f3954d952164" width="300" height="300"/> <img src="https://github.com/sauermart/Enhanced-Waste-Segmentation/assets/67053833/ce8e81b8-996e-48bb-b937-f3954d952164" width="300" height="300"/>
 </p>
 
 The Enhanced Waste Segmentation datasets can be found [here](https://mega.nz/folder/xPsyFSqC#2pAHInj2InZvIsG52Wwp_Q).
