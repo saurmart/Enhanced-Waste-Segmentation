@@ -32,7 +32,7 @@ The training and evaluation was conducted on an NVIDIA Tesla T4 with 16 GB of me
 
 #### Requirements
 
-- [Detectron2](https://github.com/facebookresearch/detectron2) version 0.6, available on GitHub,
+- [Detectron2](https://github.com/facebookresearch/detectron2) version 0.6
 - Python version 3.10
 - Torch version 2.1.0
 - CUDA version 12.2.140
