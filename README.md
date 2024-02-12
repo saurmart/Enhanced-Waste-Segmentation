@@ -18,7 +18,7 @@ The training and evaluation was conducted on an NVIDIA Tesla T4 with 16 GB of me
 
 #### Requirements
 
-- [Ultralytics](https://github.com/ultralytics/ultralytics) version
+- [Ultralytics](https://github.com/ultralytics/ultralytics) version 8.0.239
 - Python version 3.10.12
 - Torch version 2.1.0
 - CUDA version 11.2.1
