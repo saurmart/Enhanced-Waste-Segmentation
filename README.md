@@ -1,4 +1,4 @@
-# master's thesis: Enhanced Waste Segmentation Using an Electric Actuator System
+# Master's thesis: Enhanced Waste Segmentation Using an Electric Actuator System
 
 <p align="center">
   <img src="https://github.com/sauermart/Enhanced-Waste-Segmentation/assets/67053833/bf9e40bf-4fef-4469-b5d0-e5673e6465c2" width="400" height="400"/> <img src="https://github.com/sauermart/Enhanced-Waste-Segmentation/assets/67053833/ce8e81b8-996e-48bb-b937-f3954d952164" width="400" height="400"/>
@@ -12,7 +12,7 @@ The rise in global waste production presents a significant threat to both people
 mAP<sup>mask</sup> of a Mask R-CNN model with R101-FPN-3x backbone from 26.5% to 60.9%. The other models also demonstrated a significant improvement in mAP<sup>mask</sup>: Mask R-CNN R50-FPN-1x (24.4% to 58.8%), pre-trained YOLOv8 nano (24.9% to 50.6%) and non-pre-trained YOLOv8 nano (20.2% to 51.1%). It has been confirmed that the use of EAS improves the results of convolutional neural networks. In the future, this system could be used as a sub-process in automated waste separation.
 
 ## Experiments
-The training and evaluation was conducted on an NVIDIA Tesla T4 with 16 GB of memory provided by Google Colab
+The training and evaluation were conducted on an NVIDIA Tesla T4 with 16 GB of memory provided by Google Colab.
 
 ### YOLOv8 implementation
 
@@ -25,8 +25,11 @@ The training and evaluation was conducted on an NVIDIA Tesla T4 with 16 GB of me
 
 #### Training and Evaluation
 
-- pre-trained YOLOv8 seg: ```Hier kann der Code stehen, wenn man weiß, wie man ihn schreibt ```
-- non-pre-trained YOLOv8 seg: ```Hier kann der Code stehen, wenn man weiß, wie man ihn schreibt ```
+- non-pre-trained & pre-trained YOLOv8 seg: ```train_evaluation_Yolov8.ipynb```
+
+#### Confusion Matrix
+
+- exemplary prediction of YOLOv8 seg: ```confusion_martix_Yolov8.ipynb```
 
 ### Mask R-CNN implementation
 
