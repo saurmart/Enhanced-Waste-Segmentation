@@ -51,7 +51,5 @@ The training and evaluation were conducted on an NVIDIA Tesla T4 with 16 GB of m
 
 #### Train Val Loss Curve
 
-- Mask R-CNN R50-FPN-1x: ```Hier kann der Code stehen, wenn man weiß, wie man ihn schreibt ```
-- Mask R-CNN R101-FPN-3x: ```Hier kann der Code stehen, wenn man weiß, wie man ihn schreibt ```
-
-
+- Mask R-CNN R50-FPN-1x: ```Loss_Curve_Mask_R_CNN_R50```
+- Mask R-CNN R101-FPN-3x: ```Loss_Curve_Mask_R_CNN_R101```
