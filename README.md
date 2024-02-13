@@ -1,4 +1,4 @@
-# Masters Thesis: Enhanced Waste Segmentation Using an Electric Actuator System
+# master's thesis: Enhanced Waste Segmentation Using an Electric Actuator System
 
 <p align="center">
   <img src="https://github.com/sauermart/Enhanced-Waste-Segmentation/assets/67053833/bf9e40bf-4fef-4469-b5d0-e5673e6465c2" width="400" height="400"/> <img src="https://github.com/sauermart/Enhanced-Waste-Segmentation/assets/67053833/ce8e81b8-996e-48bb-b937-f3954d952164" width="400" height="400"/>
