@@ -42,12 +42,8 @@ The training and evaluation were conducted on an NVIDIA Tesla T4 with 16 GB of m
 
 #### Training and Evaluation
 
-- Mask R-CNN R50-FPN-1x: ```Hier kann der Code stehen, wenn man weiß, wie man ihn schreibt ```
-
-- Mask R-CNN R101-FPN-3x: ```Hier kann der Code stehen, wenn man weiß, wie man ihn schreibt ```
--                           ```Hier kann der Code stehen, wenn man weiß, wie man ihn schreibt ```
-
-- 
+- Mask R-CNN R50-FPN-1x: ```train_R50.ipynb```
+- Mask R-CNN R101-FPN-3x: ```train_R101.ipynb```
 
 #### Train Val Loss Curve
 
